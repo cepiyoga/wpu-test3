@@ -10,5 +10,9 @@
     <h1>Hello Word</h1>
     <h2>Test2</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni harum fuga voluptates perferendis repellendus cumque at quo, corporis beatae iure alias error rem. Ipsum, corporis! Dolores earum maiores ab laboriosam.</p>
+    <ul>
+        <li>asdadasd</li>
+        <li>adasdasdsa</li>
+    </ul>
 </body>
 </html>
